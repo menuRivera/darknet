@@ -2,4 +2,4 @@ classes=<classes>
 train  = /content/dataset/train.txt  
 valid  = /content/dataset/test.txt  
 names = /content/darknet/cfg/obj.names
-backup = /content/darknet/backup/
+backup = /content/drive/MyDrive/Datasets/backup

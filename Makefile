@@ -1,5 +1,5 @@
 GPU=1 #using GPU computing as default
-CUDNN=1
+CUDNN=0
 OPENCV=0
 OPENMP=0
 DEBUG=0
